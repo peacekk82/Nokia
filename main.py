@@ -1,6 +1,6 @@
 
 
-api_key = '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'
+api_key = 'Your API Token'
 
 from openai import OpenAI
 
